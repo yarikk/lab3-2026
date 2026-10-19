@@ -212,7 +212,7 @@ def main():
         elif choice == "11":
             analyze_room_occupancy(bookings_data)
         elif choice == "0":
-            print("Дякуємо за використання програми!")
+            print("Дякую за використання програми!")
             break
         else:
             print("Невірний вибір. Спробуйте ще раз.")
